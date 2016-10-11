@@ -1,0 +1,16 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "description": "To use, type '`' plus a search term into the Omnibox.",
+   "homepage_url": "https://sites.google.com/site/searchiohost/",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlTp5ePzfTKVGPkw+GEFFtEEJ1dIDBFJilEODxqi7ZuY0xGNNrr83NVOccmL4yGg0xFaavhQPm4+TOKxAeQ9JcOAjc2QTRJvNa7nuX2RAlmrFEWAUBEqwcK+RePVckVxeeDZa9guthmWROzRnw7N+YqtMPxT1qGsf7XzoLLz25puBcbxsUDbvebx9krEREjatdf7J4q46tmtpSdLHr2KGe4xCIyPdnVhNv6N5uZrQHzsSpfIe67JOFhhQxUU0kIVKGYgklAsUWu78jr1GViNPFYIrykH7pW2A9C+HkNxR7xmXzlydabvoJatim+1ZC24jJVrBahM5tXCx1ds4aIDxwwIDAQAB",
+   "manifest_version": 2,
+   "name": "Searchio!",
+   "omnibox": {
+      "keyword": "`"
+   },
+   "permissions": [ "tabs", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.3.53"
+}
